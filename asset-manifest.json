@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Abdullah-elhllopy/furniture/static/css/main.76ad73d1.chunk.css",
+    "main.js": "/Abdullah-elhllopy/furniture/static/js/main.be0e5178.chunk.js",
+    "main.js.map": "/Abdullah-elhllopy/furniture/static/js/main.be0e5178.chunk.js.map",
+    "runtime-main.js": "/Abdullah-elhllopy/furniture/static/js/runtime-main.00726ba6.js",
+    "runtime-main.js.map": "/Abdullah-elhllopy/furniture/static/js/runtime-main.00726ba6.js.map",
+    "static/js/2.5a2a06d8.chunk.js": "/Abdullah-elhllopy/furniture/static/js/2.5a2a06d8.chunk.js",
+    "static/js/2.5a2a06d8.chunk.js.map": "/Abdullah-elhllopy/furniture/static/js/2.5a2a06d8.chunk.js.map",
+    "static/js/3.d18c39b1.chunk.js": "/Abdullah-elhllopy/furniture/static/js/3.d18c39b1.chunk.js",
+    "static/js/3.d18c39b1.chunk.js.map": "/Abdullah-elhllopy/furniture/static/js/3.d18c39b1.chunk.js.map",
+    "index.html": "/Abdullah-elhllopy/furniture/index.html",
+    "static/css/main.76ad73d1.chunk.css.map": "/Abdullah-elhllopy/furniture/static/css/main.76ad73d1.chunk.css.map",
+    "static/js/2.5a2a06d8.chunk.js.LICENSE.txt": "/Abdullah-elhllopy/furniture/static/js/2.5a2a06d8.chunk.js.LICENSE.txt",
+    "static/media/3267434c14d99ab60fa6d51e8892dd5c.png": "/Abdullah-elhllopy/furniture/static/media/3267434c14d99ab60fa6d51e8892dd5c.25b976a7.png",
+    "static/media/763ef9d4fb0f78c8b04bf445fce68b23.png": "/Abdullah-elhllopy/furniture/static/media/763ef9d4fb0f78c8b04bf445fce68b23.db0e0abe.png",
+    "static/media/Hero-chair.png": "/Abdullah-elhllopy/furniture/static/media/Hero-chair.a69398e0.png",
+    "static/media/PNGPIX-COM-Chair-PNG-Transpare.png": "/Abdullah-elhllopy/furniture/static/media/PNGPIX-COM-Chair-PNG-Transpare.7c9da561.png",
+    "static/media/armchair_PNG7028.png": "/Abdullah-elhllopy/furniture/static/media/armchair_PNG7028.bf74678e.png",
+    "static/media/chair-ingrid.png": "/Abdullah-elhllopy/furniture/static/media/chair-ingrid.3892ce99.png",
+    "static/media/chair.png": "/Abdullah-elhllopy/furniture/static/media/chair.f809f203.png",
+    "static/media/sofa_PNG6942.png": "/Abdullah-elhllopy/furniture/static/media/sofa_PNG6942.9bbbfc67.png",
+    "static/media/sofa_PNG6946.png": "/Abdullah-elhllopy/furniture/static/media/sofa_PNG6946.ab816b80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00726ba6.js",
+    "static/js/2.5a2a06d8.chunk.js",
+    "static/css/main.76ad73d1.chunk.css",
+    "static/js/main.be0e5178.chunk.js"
+  ]
+}
